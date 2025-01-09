@@ -21,6 +21,15 @@
 按照以下步骤进行卡包的折叠：
 
    <img src="assets/step.png" width="500" />
+
+## 实拍图
+以下是打印完成后的一些实拍图：
+
+<img src="assets/real_shots/1.jpg" width="300" />
+<img src="assets/real_shots/2.jpg" width="300" />
+<img src="assets/real_shots/3.jpg" width="300" />
+<img src="assets/real_shots/4.jpg" width="300" />
+<img src="assets/real_shots/5.jpg" width="300" />
    
 
 ## 设计理念

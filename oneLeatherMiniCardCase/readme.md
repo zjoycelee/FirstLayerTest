@@ -23,6 +23,16 @@ To assemble the card bag, follow these folding steps:
    <img src="assets/step.png" width="500" />
 
 
+## Real Shots
+Here are some real-life images of the printed model:
+
+<img src="assets/real_shots/1.jpg" width="300" />
+<img src="assets/real_shots/2.jpg" width="300" />
+<img src="assets/real_shots/3.jpg" width="300" />
+<img src="assets/real_shots/4.jpg" width="300" />
+<img src="assets/real_shots/5.jpg" width="300" />
+
+
 ## Design Philosophy
 This mini card case was designed to be compact and efficient. It minimizes material usage while offering a practical and functional design for everyday carry.
 
