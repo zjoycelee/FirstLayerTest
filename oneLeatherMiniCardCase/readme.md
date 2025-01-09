@@ -17,6 +17,12 @@ A compact and stylish mini card case that can hold five to six bank cards. Ideal
 2. Print the model to create a mini card case for five to six cards.
 3. The card case is designed to hold bank cards, business cards, or any other essential cards you need to carry.
 
+## Folding Steps
+To assemble the card bag, follow these folding steps:
+
+   <img src="assets/step.png" width="500" />
+
+
 ## Design Philosophy
 This mini card case was designed to be compact and efficient. It minimizes material usage while offering a practical and functional design for everyday carry.
 
