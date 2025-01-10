@@ -20,22 +20,22 @@ This is a compact card bag designed to hold three cards. Cards can be inserted f
 ## Folding Steps
 To assemble the card bag, follow these folding steps:
 
-   <img src="assets/step1.png" width="500" />
-
-   <img src="assets/step2.png" width="500" />
+   <img src="assets/step.png" width="500" />
 
 
 ## Real Shots
 Here are some real-life images of the printed model:
 
-<img src="assets/real_shots/1.jpg" width="300" />
-<img src="assets/real_shots/2.jpg" width="300" />
-<img src="assets/real_shots/3.jpg" width="300" />
-<img src="assets/real_shots/4.jpg" width="300" />
-<img src="assets/real_shots/5.jpg" width="300" />
+<img src="assets/real_shots/v2_1.jpg" width="300" />
+<img src="assets/real_shots/v2_2.jpg" width="300" />
+<img src="assets/real_shots/v2_7.jpg" width="300" />
+<img src="assets/real_shots/v2_3.jpg" width="300" />
+<img src="assets/real_shots/v2_4.jpg" width="300" />
+<img src="assets/real_shots/v2_5.jpg" width="300" />
+<img src="assets/real_shots/v2_6.jpg" width="300" />
 
 ### Demonstration GIF
-<img src="assets/real_shots/gif.gif" width="300" />
+<img src="assets/real_shots/v2_gif.gif" width="300" />
 
 
 ## Design Philosophy
