@@ -30,6 +30,10 @@
 <img src="assets/real_shots/3.jpg" width="300" />
 <img src="assets/real_shots/4.jpg" width="300" />
 <img src="assets/real_shots/5.jpg" width="300" />
+
+
+### 演示 GIF
+<img src="assets/real_shots/gif.gif" width="300" />
    
 
 ## 设计理念

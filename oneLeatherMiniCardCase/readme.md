@@ -32,6 +32,9 @@ Here are some real-life images of the printed model:
 <img src="assets/real_shots/4.jpg" width="300" />
 <img src="assets/real_shots/5.jpg" width="300" />
 
+### Demonstration GIF
+<img src="assets/real_shots/gif.gif" width="300" />
+
 
 ## Design Philosophy
 This mini card case was designed to be compact and efficient. It minimizes material usage while offering a practical and functional design for everyday carry.
