@@ -24,7 +24,7 @@ The `miniBag(a1mini).3mf` file is pre-scaled to fit the A1 Mini printer's build 
   - **Bag Height:** 42 mm 
 
 ### Slicing Settings
-- The **bottom surface pattern** in the `miniBag(a1mini).3mf` file is set to **concentric** to prevent corner tearing after assembly.
+- The **bottom surface pattern** in the 3mf file is set to **concentric** to prevent corner tearing after assembly.
 
 ## Real Shots
 Here are some real-life images of the printed model:
