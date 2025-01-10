@@ -26,6 +26,26 @@ The `miniBag(a1mini).3mf` file is pre-scaled to fit the A1 Mini printer's build 
 ### Slicing Settings
 - The **bottom surface pattern** in the `miniBag(a1mini).3mf` file is set to **concentric** to prevent corner tearing after assembly.
 
+## Real Shots
+Here are some real-life images of the printed model:
+
+<img src="assets/real_shots/1.jpg" width="300" />
+<img src="assets/real_shots/2.jpg" width="300" />
+<img src="assets/real_shots/3.jpg" width="300" />
+<img src="assets/real_shots/4.jpg" width="300" />
+
+a1mini:
+
+<img src="assets/real_shots/a1min_1.jpg" width="300" />
+<img src="assets/real_shots/a1mini_2.jpg" width="300" />
+<img src="assets/real_shots/a1mini_4.jpg" width="300" />
+<img src="assets/real_shots/a1mini_3.jpg" width="300" />
+
+compare:
+
+<img src="assets/real_shots/both_1.jpg" width="300" />
+<img src="assets/real_shots/both_2.jpg" width="300" />
+
 
 ## Files
 - `miniBag.stl`: The STL file for printing the original model.

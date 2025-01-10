@@ -26,6 +26,26 @@
 ### 切片设置
 - `miniBag(a1mini).3mf` 文件的**底面图案**设置为 **同心**，以防止组装后角落撕裂。
 
+## 实拍图
+以下是打印完成后的一些实拍图：
+
+<img src="assets/real_shots/1.jpg" width="300" />
+<img src="assets/real_shots/2.jpg" width="300" />
+<img src="assets/real_shots/3.jpg" width="300" />
+<img src="assets/real_shots/4.jpg" width="300" />
+
+a1mini:
+
+<img src="assets/real_shots/a1min_1.jpg" width="300" />
+<img src="assets/real_shots/a1mini_2.jpg" width="300" />
+<img src="assets/real_shots/a1mini_4.jpg" width="300" />
+<img src="assets/real_shots/a1mini_3.jpg" width="300" />
+
+对比:
+
+<img src="assets/real_shots/both_1.jpg" width="300" />
+<img src="assets/real_shots/both_2.jpg" width="300" />
+
 ## 文件
 - `miniBag.stl`：用于打印模型的 STL 文件。
 - `miniBag.3mf`：方便使用 Orca 或 Bambu Studio 打印的 3MF 文件。
