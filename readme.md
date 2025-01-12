@@ -8,25 +8,25 @@ This repository provides interesting and functional first-layer test models. Unl
 
 ## Current Models
 
-### Mini Card Case
+### [Mini Card Case](./oneLeatherMiniCardCase/)
 - **Description:** A compact card case that can hold five to six bank cards.
 - **Printing Time:** 27 minutes
 - **Material Usage:** 12g
 - **Layer Height:** 0.2mm
 - **Total Height:** 0.4mm
 
-### Card Bag for 3 Cards
+### [Card Bag for 3 Cards](./forThreeCard/)
 - **Description:** A small card bag that holds three cards inserted from three directions.
 - **Printing Time:** 28 minutes
 - **Material Usage:** 7g
 - **Layer Height:** 0.1mm
 - **Total Height:** 0.2mm
 
-### Mini Basket Bag
+### [Mini Basket Bag](./miniBag/)
 - **Description:** A miniature basket-style bag that can be used as a decoration or to hold small items like candies.
-- **Printing Time:** 20 minutes
+- **Printing Time:** 29 minutes
 - **Material Usage:** 6g
-- **Layer Height:** 0.2mm
+- **Layer Height:** 0.1mm
 - **Total Height:** 0.2mm
 
 ## File Structure
